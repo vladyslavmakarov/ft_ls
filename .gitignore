@@ -1,0 +1,9 @@
+a.out
+*.o
+ft_ls.dSYM/
+*/*.a
+test*
+.nfs.*
+.*DS_Store
+build
+*.json
